@@ -1,2 +1,3 @@
-ad.doublecheck.net
+ad.doublecheck.net/*
 ade.googlesyndication.com
+googleads.*
